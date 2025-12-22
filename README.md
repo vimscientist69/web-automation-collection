@@ -18,8 +18,8 @@ Scrapes business listings and contact information from the Vaal Business Directo
 
 ### 🤖 Discord Member Stats Scraper
 **Repository:** [GitHub](https://github.com/vimscientist69/Discord-Scraper)  
-Collects and analyzes member statistics from Discord servers.
+Collects member statistics from Discord servers.
 
 ### 🏪 Atlas Trading Company Scraper
 **Repository:** [GitHub](https://github.com/vimscientist69/atlastradingonlinescraper)  
-Automated tool for scraping product data from Atlas Trading Company's online store.
+Scrapes product data from Atlas Trading Company's online store.
