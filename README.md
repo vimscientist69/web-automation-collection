@@ -4,6 +4,9 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Requests](https://img.shields.io/badge/Requests-000000?logo=python&logoColor=white)](https://docs.python-requests.org/)
 
+![Web Scraping Collection](./web-scraping-collection.png)
+
+
 A collection of web scraping and automation projects built with Python, Selenium, and Requests. These tools demonstrate various techniques for data extraction and web interaction.
 
 ## 🚀 Projects
